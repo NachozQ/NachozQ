@@ -2,7 +2,7 @@
 
 <strong>Hi, I'm someone who loves to program</strong>
 
-I mainly program in Python, make websites with Javascript, HTML and CSS and make macros using AutoHotKey
+I mainly program in Python, make websites with Javascript, HTML and CSS and make macros using AutoHotkey
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
