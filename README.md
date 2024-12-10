@@ -11,9 +11,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,html,css)](https://skillicons.dev)
 
-<h2>Software</h2>
+<h2>Software & Applications</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,windows,ableton)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,windows,ableton)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
