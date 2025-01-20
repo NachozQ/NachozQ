@@ -27,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img height="70" src="https://skillicons.dev/icons?i=vscode,github,windows,ableton,discord" />
+    <img height="70" src="https://skillicons.dev/icons?i=vscode,github,windows,ableton" />
   </a>
 </p>
 
@@ -43,3 +43,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nachozq&show_icons=true&theme=shadow_green&rank_icon=github"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nachozq&show_icons=true&theme=dark&text_color=fff&border_color=50a567&hide=stars&card_width=400&custom_title=Github+Stats&bg_color=0,3fb950ff,3fb95044,00000000&line_height=34&rank_icon=github" />
 </picture>
+
+<div id="user-content-toc" style="list-style: none;"><ul><summary>
+  <h2>$${\Huge \text{\color{#3fb950}Socials}}$$</h2>
+</summary></ul></div>
+
+[<img height="100" alt="sef" src="https://github.com/user-attachments/assets/5edff7ec-f92c-4bd8-820d-f666e9059d1d">](https://www.ultimate-guitar.com/u/NachozQ)‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+[<img right="100" height="100" alt="sef" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/spotify.svg">](https://open.spotify.com/user/11181481323) ‎ ‎ ‎ ‎ ‎ 
+[<img height="100" alt="sef" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg">](https://www.youtube.com/@NachozQ) ‎ ‎ ‎ ‎ ‎ ‎ 
+<img height="100" alt="sef" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg"> **nachozq**
+
