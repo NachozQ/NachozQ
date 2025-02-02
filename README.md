@@ -44,6 +44,11 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nachozq&show_icons=true&theme=dark&text_color=fff&border_color=50a567&hide=stars&card_width=400&custom_title=Github+Stats&bg_color=0,3fb950ff,3fb95044,00000000&line_height=34&rank_icon=github" />
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=nachozq&theme=shadow-green&date_format=j%20M%5B%20Y%5D&border=50A567&background=90%2C00000000%2C3FB950&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true"/>
+    <img src="https://streak-stats.demolab.com?user=nachozq&theme=dark&date_format=j%20M%5B%20Y%5D&border=50A567&background=0%2C00000000%2C3FB950&card_width=720&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&ring=79FF97&fire=79FF97&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+</picture>
+
 <div id="user-content-toc" style="list-style: none;"><ul><summary>
   <h2>$\Huge \text{\color{#3fb950}Socials}$</h2>
 </summary></ul></div>
