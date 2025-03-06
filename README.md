@@ -1,22 +1,22 @@
 <h1>$\Huge \text {\color{#3fb950}NachozQ's \color{#white}Github Page}$</h1>
 <img align="right" z-index="10" width="350" alt="banner" src="https://github.com/user-attachments/assets/29ea5b57-8c19-4aa9-8925-12c28813303e">
-<p align="left">Hello, I'm someone who <ins>Absolutely</ins> $\Huge \text{\color{gold}loves}$ to program.</p>
-<p>I'm a big fan of electronic music, so hit me up if you've got recommendations.</p>
+<p align="left">Hello, I'm someone who $\Huge \text{\color{#c50000}absolutely loves}$ to program.</p>
+<p>I'm big into electro music, so hit me up if you've got recommendations.</p>
 <p>Feel free to DM me if you've got any questions too.</p>
 
 <br>
+<img src="https://github.com/user-attachments/assets/607577df-aa68-4230-becb-007240e3e02f">
 
 <div id="user-content-toc" style="list-style: none;"><ul><summary>
-    <h2>$\Huge \text{\color{#3fb950}Programming, Markup \& Scripting Languages}$</h2>
+    <h3>$\Huge \text{\color{#3fb950}Programming, Markup \& Scripting Languages}$</h3>
 </summary></ul></div>
 <ul>
-<li>$\text{\color{#beae3e}JavaScript}$, as well as familiar with $\text{\color{#e14e1d}HTML}$ and $\text{\color{#0277bd}CSS}$.</li>
-<li>$\text{\color{#3775a8}Python}$, Object Oriented Programming as well as basic knowledge of popular packages such as NumPy, pandas, matplotlib and pygame.</li>
+<li>$\text{\color{#ffd242}JavaScript}$, as well as familiar with $\text{\color{#e14e1d}HTML}$ and $\text{\color{#3c99d4}CSS}$.</li>
+<li>$\text{\color{#3c99d4}Python}$, Object Oriented Programming as well as basic knowledge of popular packages such as NumPy, pandas, matplotlib and pygame.</li>
 <li>$\text{\color{#448e3a}AutoHotkey}$, to increase efficiency I like to make scripts using AutoHotkey, OOP too.</li>
 </ul>
 
 <img height="70" src="https://skillicons.dev/icons?i=js,html,css,py,ts,regex,latex&theme=dark"/>
-
 
 <div align="left" id="user-content-toc" style="list-style: none;"><ul><summary>
   <h2>$\Huge \text{\color{#3fb950}Software \& Applications}$</h2>  
@@ -66,3 +66,4 @@
 [<img height="70" alt="Youtube Logo" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg">](https://www.youtube.com/@NachozQ) ‎ ‎ ‎ ‎ ‎ ‎ 
 <img height="70" alt="Discord Icon" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg"> **nachozq**
 
+PS. You can only see the LaTeX correctly on desktop and on the web, if you're on the mobile app this page will looks strange. I'm aware.
